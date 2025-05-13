@@ -25,9 +25,10 @@ console.log(helloWorld2);
 
 
 
-// const
+// const declaración es costande 
 const helloWorld3 = " Hello 3, javaScript3";
 console.log(helloWorld3);
 
-helloWorld3 = " Hello 3, javaScript3";
-console.log(helloWorld3);
+//Error
+// helloWorld3 = " Hello 3, javaScript3";
+//console.log(helloWorld3);
