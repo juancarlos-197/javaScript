@@ -24,7 +24,6 @@ helloWorld2 = " Hello 2, javaScript2";
 console.log(helloWorld2);
 
 
-
 // const declaración es costande 
 const helloWorld3 = " Hello 3, javaScript3";
 console.log(helloWorld3);
