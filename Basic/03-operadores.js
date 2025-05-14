@@ -20,4 +20,10 @@ console.log(a)//Incremento
 b--
 console.log(b)//Decremento
 
-
+//Operadores asignacion 
+let myVariable = 2;
+myVariable += 2;
+myVariable += 2;
+myVariable += 2;
+myVariable += 2;
+myVariable += 2;
