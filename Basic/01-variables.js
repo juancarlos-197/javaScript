@@ -31,3 +31,10 @@ console.log(helloWorld3);
 //Error
 // helloWorld3 = " Hello 3, javaScript3";
 //console.log(helloWorld3);
+
+//UpperCamelCase, camelCase, snake_case esto quiere decir que si nosotros utilizamos máyusculas o minusculas 
+//e inckuso indicandole
+let nombre;
+let NombreCompleto;
+let nombreCompleto;
+let nombre_completo;
