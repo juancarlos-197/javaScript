@@ -1,3 +1,13 @@
+
+/**Tipos de datos
+ * Primitivos:       de referencia
+ * Number            * Array
+ * String           * Object
+ * Boolean           * Function
+ * Undefined         * Clases
+ * Null
+ * 
+ */
 // una cadena de texto (String)
 let name ="Juán Carlos Albán";
 let alias = 'Juancho'
